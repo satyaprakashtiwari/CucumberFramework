@@ -1,0 +1,219 @@
+27-12-2019 21:08:22 [ INFO  ] Cucumber Framework: (Steps.java:28)- *******Launching the browser*******
+27-12-2019 21:08:25 [ INFO  ] Cucumber Framework: (Steps.java:37)- *******Opening the URL*******
+27-12-2019 21:08:25 [ INFO  ] Cucumber Framework: (Steps.java:43)- ------entering USR and PWD-------
+27-12-2019 21:08:33 [ INFO  ] Cucumber Framework: (Steps.java:52)- ---login done-----
+27-12-2019 21:08:33 [ INFO  ] Cucumber Framework: (Steps.java:90)- -----------verifing title------
+27-12-2019 21:08:36 [ INFO  ] Cucumber Framework: (Steps.java:98)- -----------clicked on CUSTOMER----------
+27-12-2019 21:08:41 [ INFO  ] Cucumber Framework: (Steps.java:105)- -----------clicked on Customer----------
+27-12-2019 21:08:46 [ INFO  ] Cucumber Framework: (Steps.java:112)- -----------clicked on AddNew button----------
+27-12-2019 21:08:46 [ INFO  ] Cucumber Framework: (Steps.java:117)- -----------verifying add new customer page----------
+27-12-2019 21:08:46 [ INFO  ] Cucumber Framework: (Steps.java:124)- -----------going to enter customer details---------
+27-12-2019 21:08:49 [ INFO  ] Cucumber Framework: (Steps.java:139)- -----------customer details entered---------
+27-12-2019 21:08:52 [ INFO  ] Cucumber Framework: (Steps.java:145)- -----------clicked on save button---------
+27-12-2019 21:08:55 [ INFO  ] Cucumber Framework: (Steps.java:151)- -------------verifying the confirmation message----------
+27-12-2019 21:09:00 [ INFO  ] Cucumber Framework: (Steps.java:81)- *******Closing the browser*******
+27-12-2019 21:09:02 [ INFO  ] Cucumber Framework: (Steps.java:28)- *******Launching the browser*******
+27-12-2019 21:09:06 [ INFO  ] Cucumber Framework: (Steps.java:37)- *******Opening the URL*******
+27-12-2019 21:09:06 [ INFO  ] Cucumber Framework: (Steps.java:43)- ------entering USR and PWD-------
+27-12-2019 21:09:16 [ INFO  ] Cucumber Framework: (Steps.java:52)- ---login done-----
+27-12-2019 21:09:16 [ INFO  ] Cucumber Framework: (Steps.java:90)- -----------verifing title------
+27-12-2019 21:09:19 [ INFO  ] Cucumber Framework: (Steps.java:98)- -----------clicked on CUSTOMER----------
+27-12-2019 21:09:24 [ INFO  ] Cucumber Framework: (Steps.java:105)- -----------clicked on Customer----------
+27-12-2019 21:09:26 [ INFO  ] Cucumber Framework: (Steps.java:28)- *******Launching the browser*******
+27-12-2019 21:09:29 [ INFO  ] Cucumber Framework: (Steps.java:37)- *******Opening the URL*******
+27-12-2019 21:09:29 [ INFO  ] Cucumber Framework: (Steps.java:43)- ------entering USR and PWD-------
+27-12-2019 21:09:37 [ INFO  ] Cucumber Framework: (Steps.java:52)- ---login done-----
+27-12-2019 21:09:37 [ INFO  ] Cucumber Framework: (Steps.java:90)- -----------verifing title------
+27-12-2019 21:09:40 [ INFO  ] Cucumber Framework: (Steps.java:98)- -----------clicked on CUSTOMER----------
+27-12-2019 21:09:46 [ INFO  ] Cucumber Framework: (Steps.java:105)- -----------clicked on Customer----------
+27-12-2019 21:09:46 [ INFO  ] Cucumber Framework: (Steps.java:184)- --------------entered first name-------------
+27-12-2019 21:09:47 [ INFO  ] Cucumber Framework: (Steps.java:190)- --------------entered last name-------------
+27-12-2019 21:09:50 [ INFO  ] Cucumber Framework: (Steps.java:168)- --------------clicked on search-------------
+27-12-2019 21:09:50 [ INFO  ] Cucumber Framework: (Steps.java:195)- --------------checking user in table-------------
+27-12-2019 21:09:55 [ INFO  ] Cucumber Framework: (Steps.java:81)- *******Closing the browser*******
+27-12-2019 21:14:54 [ INFO  ] Cucumber Framework: (Steps.java:28)- *******Launching the browser*******
+27-12-2019 21:14:57 [ INFO  ] Cucumber Framework: (Steps.java:37)- *******Opening the URL*******
+27-12-2019 21:14:57 [ INFO  ] Cucumber Framework: (Steps.java:43)- ------entering USR and PWD-------
+27-12-2019 21:15:07 [ INFO  ] Cucumber Framework: (Steps.java:52)- ---login done-----
+27-12-2019 21:15:07 [ INFO  ] Cucumber Framework: (Steps.java:90)- -----------verifing title------
+27-12-2019 21:15:10 [ INFO  ] Cucumber Framework: (Steps.java:98)- -----------clicked on CUSTOMER----------
+27-12-2019 21:15:15 [ INFO  ] Cucumber Framework: (Steps.java:105)- -----------clicked on Customer----------
+27-12-2019 21:15:19 [ INFO  ] Cucumber Framework: (Steps.java:112)- -----------clicked on AddNew button----------
+27-12-2019 21:15:19 [ INFO  ] Cucumber Framework: (Steps.java:117)- -----------verifying add new customer page----------
+27-12-2019 21:15:19 [ INFO  ] Cucumber Framework: (Steps.java:124)- -----------going to enter customer details---------
+27-12-2019 21:15:21 [ INFO  ] Cucumber Framework: (Steps.java:139)- -----------customer details entered---------
+27-12-2019 21:15:24 [ INFO  ] Cucumber Framework: (Steps.java:145)- -----------clicked on save button---------
+27-12-2019 21:15:27 [ INFO  ] Cucumber Framework: (Steps.java:151)- -------------verifying the confirmation message----------
+27-12-2019 21:15:32 [ INFO  ] Cucumber Framework: (Steps.java:81)- *******Closing the browser*******
+27-12-2019 21:15:34 [ INFO  ] Cucumber Framework: (Steps.java:28)- *******Launching the browser*******
+27-12-2019 21:15:37 [ INFO  ] Cucumber Framework: (Steps.java:37)- *******Opening the URL*******
+27-12-2019 21:15:37 [ INFO  ] Cucumber Framework: (Steps.java:43)- ------entering USR and PWD-------
+27-12-2019 21:15:45 [ INFO  ] Cucumber Framework: (Steps.java:52)- ---login done-----
+27-12-2019 21:15:45 [ INFO  ] Cucumber Framework: (Steps.java:90)- -----------verifing title------
+27-12-2019 21:15:48 [ INFO  ] Cucumber Framework: (Steps.java:98)- -----------clicked on CUSTOMER----------
+27-12-2019 21:15:53 [ INFO  ] Cucumber Framework: (Steps.java:105)- -----------clicked on Customer----------
+27-12-2019 21:15:54 [ INFO  ] Cucumber Framework: (Steps.java:161)- --------------entered customer email-------------
+27-12-2019 21:15:57 [ INFO  ] Cucumber Framework: (Steps.java:168)- --------------clicked on search-------------
+27-12-2019 21:15:57 [ INFO  ] Cucumber Framework: (Steps.java:173)- --------------checking email in table-------------
+27-12-2019 21:16:02 [ INFO  ] Cucumber Framework: (Steps.java:81)- *******Closing the browser*******
+27-12-2019 21:16:04 [ INFO  ] Cucumber Framework: (Steps.java:28)- *******Launching the browser*******
+27-12-2019 21:16:07 [ INFO  ] Cucumber Framework: (Steps.java:37)- *******Opening the URL*******
+27-12-2019 21:16:07 [ INFO  ] Cucumber Framework: (Steps.java:43)- ------entering USR and PWD-------
+27-12-2019 21:16:13 [ INFO  ] Cucumber Framework: (Steps.java:52)- ---login done-----
+27-12-2019 21:16:13 [ INFO  ] Cucumber Framework: (Steps.java:90)- -----------verifing title------
+27-12-2019 21:16:16 [ INFO  ] Cucumber Framework: (Steps.java:98)- -----------clicked on CUSTOMER----------
+27-12-2019 21:16:21 [ INFO  ] Cucumber Framework: (Steps.java:105)- -----------clicked on Customer----------
+27-12-2019 21:16:21 [ INFO  ] Cucumber Framework: (Steps.java:184)- --------------entered first name-------------
+27-12-2019 21:16:22 [ INFO  ] Cucumber Framework: (Steps.java:190)- --------------entered last name-------------
+27-12-2019 21:16:25 [ INFO  ] Cucumber Framework: (Steps.java:168)- --------------clicked on search-------------
+27-12-2019 21:16:25 [ INFO  ] Cucumber Framework: (Steps.java:195)- --------------checking user in table-------------
+27-12-2019 21:16:31 [ INFO  ] Cucumber Framework: (Steps.java:81)- *******Closing the browser*******
+28-12-2019 00:12:43 [ INFO  ] Cucumber Framework: (Steps.java:56)- *******Launching the browser*******
+28-12-2019 00:12:46 [ INFO  ] Cucumber Framework: (Steps.java:72)- *******Opening the URL*******
+28-12-2019 00:12:46 [ INFO  ] Cucumber Framework: (Steps.java:78)- ------entering USR and PWD-------
+28-12-2019 00:12:52 [ INFO  ] Cucumber Framework: (Steps.java:87)- ---login done-----
+28-12-2019 00:12:52 [ INFO  ] Cucumber Framework: (Steps.java:125)- -----------verifying title------
+28-12-2019 00:12:56 [ INFO  ] Cucumber Framework: (Steps.java:133)- -----------clicked on CUSTOMER----------
+28-12-2019 00:13:00 [ INFO  ] Cucumber Framework: (Steps.java:140)- -----------clicked on Customer----------
+28-12-2019 00:13:04 [ INFO  ] Cucumber Framework: (Steps.java:147)- -----------clicked on AddNew button----------
+28-12-2019 00:13:04 [ INFO  ] Cucumber Framework: (Steps.java:152)- -----------verifying add new customer page----------
+28-12-2019 00:13:04 [ INFO  ] Cucumber Framework: (Steps.java:159)- -----------going to enter customer details---------
+28-12-2019 00:13:06 [ INFO  ] Cucumber Framework: (Steps.java:174)- -----------customer details entered---------
+28-12-2019 00:13:09 [ INFO  ] Cucumber Framework: (Steps.java:180)- -----------clicked on save button---------
+28-12-2019 00:13:12 [ INFO  ] Cucumber Framework: (Steps.java:186)- -------------verifying the confirmation message----------
+28-12-2019 00:13:17 [ INFO  ] Cucumber Framework: (Steps.java:116)- *******Closing the browser*******
+28-12-2019 00:13:19 [ INFO  ] Cucumber Framework: (Steps.java:56)- *******Launching the browser*******
+28-12-2019 00:13:22 [ INFO  ] Cucumber Framework: (Steps.java:72)- *******Opening the URL*******
+28-12-2019 00:13:22 [ INFO  ] Cucumber Framework: (Steps.java:78)- ------entering USR and PWD-------
+28-12-2019 00:13:29 [ INFO  ] Cucumber Framework: (Steps.java:87)- ---login done-----
+28-12-2019 00:13:29 [ INFO  ] Cucumber Framework: (Steps.java:125)- -----------verifying title------
+28-12-2019 00:13:33 [ INFO  ] Cucumber Framework: (Steps.java:133)- -----------clicked on CUSTOMER----------
+28-12-2019 00:13:37 [ INFO  ] Cucumber Framework: (Steps.java:140)- -----------clicked on Customer----------
+28-12-2019 00:13:38 [ INFO  ] Cucumber Framework: (Steps.java:196)- --------------entered customer email-------------
+28-12-2019 00:13:41 [ INFO  ] Cucumber Framework: (Steps.java:203)- --------------clicked on search-------------
+28-12-2019 00:13:41 [ INFO  ] Cucumber Framework: (Steps.java:208)- --------------checking email in table-------------
+28-12-2019 00:13:46 [ INFO  ] Cucumber Framework: (Steps.java:116)- *******Closing the browser*******
+28-12-2019 00:13:48 [ INFO  ] Cucumber Framework: (Steps.java:56)- *******Launching the browser*******
+28-12-2019 00:13:51 [ INFO  ] Cucumber Framework: (Steps.java:72)- *******Opening the URL*******
+28-12-2019 00:13:51 [ INFO  ] Cucumber Framework: (Steps.java:78)- ------entering USR and PWD-------
+28-12-2019 00:14:00 [ INFO  ] Cucumber Framework: (Steps.java:87)- ---login done-----
+28-12-2019 00:14:00 [ INFO  ] Cucumber Framework: (Steps.java:125)- -----------verifying title------
+28-12-2019 00:14:03 [ INFO  ] Cucumber Framework: (Steps.java:133)- -----------clicked on CUSTOMER----------
+28-12-2019 00:14:08 [ INFO  ] Cucumber Framework: (Steps.java:140)- -----------clicked on Customer----------
+28-12-2019 00:14:08 [ INFO  ] Cucumber Framework: (Steps.java:219)- --------------entered first name-------------
+28-12-2019 00:14:08 [ INFO  ] Cucumber Framework: (Steps.java:225)- --------------entered last name-------------
+28-12-2019 00:14:12 [ INFO  ] Cucumber Framework: (Steps.java:203)- --------------clicked on search-------------
+28-12-2019 00:14:12 [ INFO  ] Cucumber Framework: (Steps.java:230)- --------------checking user in table-------------
+28-12-2019 00:14:17 [ INFO  ] Cucumber Framework: (Steps.java:116)- *******Closing the browser*******
+28-12-2019 00:25:06 [ INFO  ] Cucumber Framework: (Steps.java:56)- *******Launching the browser*******
+28-12-2019 00:25:10 [ INFO  ] Cucumber Framework: (Steps.java:72)- *******Opening the URL*******
+28-12-2019 00:25:10 [ INFO  ] Cucumber Framework: (Steps.java:78)- ------entering USR and PWD-------
+28-12-2019 00:25:19 [ INFO  ] Cucumber Framework: (Steps.java:87)- ---login done-----
+28-12-2019 00:25:19 [ INFO  ] Cucumber Framework: (Steps.java:125)- -----------verifying title------
+28-12-2019 00:25:23 [ INFO  ] Cucumber Framework: (Steps.java:133)- -----------clicked on CUSTOMER----------
+28-12-2019 00:25:27 [ INFO  ] Cucumber Framework: (Steps.java:140)- -----------clicked on Customer----------
+28-12-2019 00:25:32 [ INFO  ] Cucumber Framework: (Steps.java:147)- -----------clicked on AddNew button----------
+28-12-2019 00:25:32 [ INFO  ] Cucumber Framework: (Steps.java:152)- -----------verifying add new customer page----------
+28-12-2019 00:25:32 [ INFO  ] Cucumber Framework: (Steps.java:159)- -----------going to enter customer details---------
+28-12-2019 00:25:34 [ INFO  ] Cucumber Framework: (Steps.java:174)- -----------customer details entered---------
+28-12-2019 00:25:36 [ INFO  ] Cucumber Framework: (Steps.java:180)- -----------clicked on save button---------
+28-12-2019 00:25:39 [ INFO  ] Cucumber Framework: (Steps.java:186)- -------------verifying the confirmation message----------
+28-12-2019 00:25:44 [ INFO  ] Cucumber Framework: (Steps.java:116)- *******Closing the browser*******
+28-12-2019 00:54:13 [ INFO  ] Cucumber Framework: (Steps.java:56)- *******Launching the browser*******
+28-12-2019 00:54:16 [ INFO  ] Cucumber Framework: (Steps.java:72)- *******Opening the URL*******
+28-12-2019 00:54:16 [ INFO  ] Cucumber Framework: (Steps.java:78)- ------entering USR and PWD-------
+28-12-2019 00:54:24 [ INFO  ] Cucumber Framework: (Steps.java:87)- ---login done-----
+28-12-2019 00:54:24 [ INFO  ] Cucumber Framework: (Steps.java:125)- -----------verifying title------
+28-12-2019 00:54:27 [ INFO  ] Cucumber Framework: (Steps.java:133)- -----------clicked on CUSTOMER----------
+28-12-2019 00:54:33 [ INFO  ] Cucumber Framework: (Steps.java:140)- -----------clicked on Customer----------
+28-12-2019 00:54:37 [ INFO  ] Cucumber Framework: (Steps.java:147)- -----------clicked on AddNew button----------
+28-12-2019 00:54:37 [ INFO  ] Cucumber Framework: (Steps.java:152)- -----------verifying add new customer page----------
+28-12-2019 00:54:37 [ INFO  ] Cucumber Framework: (Steps.java:159)- -----------going to enter customer details---------
+28-12-2019 00:54:39 [ INFO  ] Cucumber Framework: (Steps.java:174)- -----------customer details entered---------
+28-12-2019 00:54:41 [ INFO  ] Cucumber Framework: (Steps.java:180)- -----------clicked on save button---------
+28-12-2019 00:54:44 [ INFO  ] Cucumber Framework: (Steps.java:186)- -------------verifying the confirmation message----------
+28-12-2019 00:54:49 [ INFO  ] Cucumber Framework: (Steps.java:116)- *******Closing the browser*******
+28-12-2019 01:34:56 [ INFO  ] Cucumber Framework: (Steps.java:56)- *******Launching the browser*******
+28-12-2019 01:34:59 [ INFO  ] Cucumber Framework: (Steps.java:72)- *******Opening the URL*******
+28-12-2019 01:34:59 [ INFO  ] Cucumber Framework: (Steps.java:78)- ------entering USR and PWD-------
+28-12-2019 01:35:13 [ INFO  ] Cucumber Framework: (Steps.java:87)- ---login done-----
+28-12-2019 01:35:13 [ INFO  ] Cucumber Framework: (Steps.java:125)- -----------verifying title------
+28-12-2019 01:35:16 [ INFO  ] Cucumber Framework: (Steps.java:133)- -----------clicked on CUSTOMER----------
+28-12-2019 01:35:23 [ INFO  ] Cucumber Framework: (Steps.java:140)- -----------clicked on Customer----------
+28-12-2019 01:35:29 [ INFO  ] Cucumber Framework: (Steps.java:147)- -----------clicked on AddNew button----------
+28-12-2019 01:35:29 [ INFO  ] Cucumber Framework: (Steps.java:152)- -----------verifying add new customer page----------
+28-12-2019 01:35:29 [ INFO  ] Cucumber Framework: (Steps.java:159)- -----------going to enter customer details---------
+28-12-2019 01:35:31 [ INFO  ] Cucumber Framework: (Steps.java:174)- -----------customer details entered---------
+28-12-2019 01:35:35 [ INFO  ] Cucumber Framework: (Steps.java:180)- -----------clicked on save button---------
+28-12-2019 01:35:38 [ INFO  ] Cucumber Framework: (Steps.java:186)- -------------verifying the confirmation message----------
+28-12-2019 01:35:43 [ INFO  ] Cucumber Framework: (Steps.java:116)- *******Closing the browser*******
+28-12-2019 01:38:22 [ INFO  ] Cucumber Framework: (Steps.java:56)- *******Launching the browser*******
+28-12-2019 01:38:24 [ INFO  ] Cucumber Framework: (Steps.java:72)- *******Opening the URL*******
+28-12-2019 01:38:24 [ INFO  ] Cucumber Framework: (Steps.java:78)- ------entering USR and PWD-------
+28-12-2019 01:38:33 [ INFO  ] Cucumber Framework: (Steps.java:87)- ---login done-----
+28-12-2019 01:38:33 [ INFO  ] Cucumber Framework: (Steps.java:125)- -----------verifying title------
+28-12-2019 01:38:36 [ INFO  ] Cucumber Framework: (Steps.java:133)- -----------clicked on CUSTOMER----------
+28-12-2019 01:38:41 [ INFO  ] Cucumber Framework: (Steps.java:140)- -----------clicked on Customer----------
+28-12-2019 01:38:44 [ INFO  ] Cucumber Framework: (Steps.java:147)- -----------clicked on AddNew button----------
+28-12-2019 01:38:44 [ INFO  ] Cucumber Framework: (Steps.java:152)- -----------verifying add new customer page----------
+28-12-2019 01:38:45 [ INFO  ] Cucumber Framework: (Steps.java:159)- -----------going to enter customer details---------
+28-12-2019 01:38:46 [ INFO  ] Cucumber Framework: (Steps.java:174)- -----------customer details entered---------
+28-12-2019 01:38:49 [ INFO  ] Cucumber Framework: (Steps.java:180)- -----------clicked on save button---------
+28-12-2019 01:38:52 [ INFO  ] Cucumber Framework: (Steps.java:186)- -------------verifying the confirmation message----------
+28-12-2019 01:38:58 [ INFO  ] Cucumber Framework: (Steps.java:116)- *******Closing the browser*******
+28-12-2019 01:41:42 [ INFO  ] Cucumber Framework: (Steps.java:56)- *******Launching the browser*******
+28-12-2019 01:41:45 [ INFO  ] Cucumber Framework: (Steps.java:72)- *******Opening the URL*******
+28-12-2019 01:41:45 [ INFO  ] Cucumber Framework: (Steps.java:78)- ------entering USR and PWD-------
+28-12-2019 01:41:53 [ INFO  ] Cucumber Framework: (Steps.java:87)- ---login done-----
+28-12-2019 01:41:53 [ INFO  ] Cucumber Framework: (Steps.java:125)- -----------verifying title------
+28-12-2019 01:41:56 [ INFO  ] Cucumber Framework: (Steps.java:133)- -----------clicked on CUSTOMER----------
+28-12-2019 01:42:02 [ INFO  ] Cucumber Framework: (Steps.java:140)- -----------clicked on Customer----------
+28-12-2019 01:42:05 [ INFO  ] Cucumber Framework: (Steps.java:147)- -----------clicked on AddNew button----------
+28-12-2019 01:42:05 [ INFO  ] Cucumber Framework: (Steps.java:152)- -----------verifying add new customer page----------
+28-12-2019 01:42:05 [ INFO  ] Cucumber Framework: (Steps.java:159)- -----------going to enter customer details---------
+28-12-2019 01:42:07 [ INFO  ] Cucumber Framework: (Steps.java:174)- -----------customer details entered---------
+28-12-2019 01:42:10 [ INFO  ] Cucumber Framework: (Steps.java:180)- -----------clicked on save button---------
+28-12-2019 01:42:13 [ INFO  ] Cucumber Framework: (Steps.java:186)- -------------verifying the confirmation message----------
+28-12-2019 01:42:19 [ INFO  ] Cucumber Framework: (Steps.java:116)- *******Closing the browser*******
+29-12-2019 13:39:05 [ INFO  ] Cucumber Framework: (Steps.java:56)- *******Launching the browser*******
+29-12-2019 13:39:08 [ INFO  ] Cucumber Framework: (Steps.java:72)- *******Opening the URL*******
+29-12-2019 13:39:08 [ INFO  ] Cucumber Framework: (Steps.java:78)- ------entering USR and PWD-------
+29-12-2019 13:39:16 [ INFO  ] Cucumber Framework: (Steps.java:87)- ---login done-----
+29-12-2019 13:39:16 [ INFO  ] Cucumber Framework: (Steps.java:125)- -----------verifying title------
+29-12-2019 13:39:20 [ INFO  ] Cucumber Framework: (Steps.java:133)- -----------clicked on CUSTOMER----------
+29-12-2019 13:39:25 [ INFO  ] Cucumber Framework: (Steps.java:140)- -----------clicked on Customer----------
+29-12-2019 13:39:30 [ INFO  ] Cucumber Framework: (Steps.java:147)- -----------clicked on AddNew button----------
+29-12-2019 13:39:30 [ INFO  ] Cucumber Framework: (Steps.java:152)- -----------verifying add new customer page----------
+29-12-2019 13:39:30 [ INFO  ] Cucumber Framework: (Steps.java:159)- -----------going to enter customer details---------
+29-12-2019 13:39:32 [ INFO  ] Cucumber Framework: (Steps.java:174)- -----------customer details entered---------
+29-12-2019 13:39:34 [ INFO  ] Cucumber Framework: (Steps.java:180)- -----------clicked on save button---------
+29-12-2019 13:39:37 [ INFO  ] Cucumber Framework: (Steps.java:186)- -------------verifying the confirmation message----------
+29-12-2019 13:39:42 [ INFO  ] Cucumber Framework: (Steps.java:116)- *******Closing the browser*******
+29-12-2019 13:42:26 [ INFO  ] Cucumber Framework: (Steps.java:56)- *******Launching the browser*******
+29-12-2019 13:42:29 [ INFO  ] Cucumber Framework: (Steps.java:72)- *******Opening the URL*******
+29-12-2019 13:42:29 [ INFO  ] Cucumber Framework: (Steps.java:78)- ------entering USR and PWD-------
+29-12-2019 13:42:37 [ INFO  ] Cucumber Framework: (Steps.java:87)- ---login done-----
+29-12-2019 13:42:37 [ INFO  ] Cucumber Framework: (Steps.java:125)- -----------verifying title------
+29-12-2019 13:42:40 [ INFO  ] Cucumber Framework: (Steps.java:133)- -----------clicked on CUSTOMER----------
+29-12-2019 13:42:45 [ INFO  ] Cucumber Framework: (Steps.java:140)- -----------clicked on Customer----------
+29-12-2019 13:42:50 [ INFO  ] Cucumber Framework: (Steps.java:147)- -----------clicked on AddNew button----------
+29-12-2019 13:42:50 [ INFO  ] Cucumber Framework: (Steps.java:152)- -----------verifying add new customer page----------
+29-12-2019 13:42:50 [ INFO  ] Cucumber Framework: (Steps.java:159)- -----------going to enter customer details---------
+29-12-2019 13:42:52 [ INFO  ] Cucumber Framework: (Steps.java:174)- -----------customer details entered---------
+29-12-2019 13:42:54 [ INFO  ] Cucumber Framework: (Steps.java:180)- -----------clicked on save button---------
+29-12-2019 13:42:57 [ INFO  ] Cucumber Framework: (Steps.java:186)- -------------verifying the confirmation message----------
+29-12-2019 13:43:02 [ INFO  ] Cucumber Framework: (Steps.java:116)- *******Closing the browser*******
+29-12-2019 13:51:51 [ INFO  ] Cucumber Framework: (Steps.java:56)- *******Launching the browser*******
+29-12-2019 13:51:55 [ INFO  ] Cucumber Framework: (Steps.java:72)- *******Opening the URL*******
+29-12-2019 13:51:55 [ INFO  ] Cucumber Framework: (Steps.java:78)- ------entering USR and PWD-------
+29-12-2019 13:52:03 [ INFO  ] Cucumber Framework: (Steps.java:87)- ---login done-----
+29-12-2019 13:52:03 [ INFO  ] Cucumber Framework: (Steps.java:125)- -----------verifying title------
+29-12-2019 13:52:06 [ INFO  ] Cucumber Framework: (Steps.java:133)- -----------clicked on CUSTOMER----------
+29-12-2019 13:52:12 [ INFO  ] Cucumber Framework: (Steps.java:140)- -----------clicked on Customer----------
+29-12-2019 13:52:17 [ INFO  ] Cucumber Framework: (Steps.java:147)- -----------clicked on AddNew button----------
+29-12-2019 13:52:17 [ INFO  ] Cucumber Framework: (Steps.java:152)- -----------verifying add new customer page----------
+29-12-2019 13:52:17 [ INFO  ] Cucumber Framework: (Steps.java:159)- -----------going to enter customer details---------
+29-12-2019 13:52:18 [ INFO  ] Cucumber Framework: (Steps.java:174)- -----------customer details entered---------
+29-12-2019 13:52:20 [ INFO  ] Cucumber Framework: (Steps.java:180)- -----------clicked on save button---------
+29-12-2019 13:52:23 [ INFO  ] Cucumber Framework: (Steps.java:186)- -------------verifying the confirmation message----------
+29-12-2019 13:52:31 [ INFO  ] Cucumber Framework: (Steps.java:116)- *******Closing the browser*******

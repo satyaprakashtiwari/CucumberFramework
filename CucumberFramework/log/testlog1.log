@@ -1,0 +1,107 @@
+2019-12-27 21:08:22,980 [main] INFO Cucumber Framework - *******Launching the browser*******
+2019-12-27 21:08:25,558 [main] INFO Cucumber Framework - *******Opening the URL*******
+2019-12-27 21:08:25,561 [main] INFO Cucumber Framework - ------entering USR and PWD-------
+2019-12-27 21:08:33,756 [main] INFO Cucumber Framework - ---login done-----
+2019-12-27 21:08:33,778 [main] INFO Cucumber Framework - -----------verifing title------
+2019-12-27 21:08:36,921 [main] INFO Cucumber Framework - -----------clicked on CUSTOMER----------
+2019-12-27 21:08:41,971 [main] INFO Cucumber Framework - -----------clicked on Customer----------
+2019-12-27 21:08:46,773 [main] INFO Cucumber Framework - -----------clicked on AddNew button----------
+2019-12-27 21:08:46,776 [main] INFO Cucumber Framework - -----------verifying add new customer page----------
+2019-12-27 21:08:46,797 [main] INFO Cucumber Framework - -----------going to enter customer details---------
+2019-12-27 21:08:49,032 [main] INFO Cucumber Framework - -----------customer details entered---------
+2019-12-27 21:08:52,318 [main] INFO Cucumber Framework - -----------clicked on save button---------
+2019-12-27 21:08:55,321 [main] INFO Cucumber Framework - -------------verifying the confirmation message----------
+2019-12-27 21:09:00,700 [main] INFO Cucumber Framework - *******Closing the browser*******
+2019-12-27 21:09:02,752 [main] INFO Cucumber Framework - *******Launching the browser*******
+2019-12-27 21:09:06,175 [main] INFO Cucumber Framework - *******Opening the URL*******
+2019-12-27 21:09:06,178 [main] INFO Cucumber Framework - ------entering USR and PWD-------
+2019-12-27 21:09:16,347 [main] INFO Cucumber Framework - ---login done-----
+2019-12-27 21:09:16,350 [main] INFO Cucumber Framework - -----------verifing title------
+2019-12-27 21:09:19,557 [main] INFO Cucumber Framework - -----------clicked on CUSTOMER----------
+2019-12-27 21:09:24,186 [main] INFO Cucumber Framework - -----------clicked on Customer----------
+2019-12-27 21:09:26,282 [main] INFO Cucumber Framework - *******Launching the browser*******
+2019-12-27 21:09:29,093 [main] INFO Cucumber Framework - *******Opening the URL*******
+2019-12-27 21:09:29,096 [main] INFO Cucumber Framework - ------entering USR and PWD-------
+2019-12-27 21:09:37,167 [main] INFO Cucumber Framework - ---login done-----
+2019-12-27 21:09:37,170 [main] INFO Cucumber Framework - -----------verifing title------
+2019-12-27 21:09:40,303 [main] INFO Cucumber Framework - -----------clicked on CUSTOMER----------
+2019-12-27 21:09:46,498 [main] INFO Cucumber Framework - -----------clicked on Customer----------
+2019-12-27 21:09:46,730 [main] INFO Cucumber Framework - --------------entered first name-------------
+2019-12-27 21:09:47,023 [main] INFO Cucumber Framework - --------------entered last name-------------
+2019-12-27 21:09:50,156 [main] INFO Cucumber Framework - --------------clicked on search-------------
+2019-12-27 21:09:50,160 [main] INFO Cucumber Framework - --------------checking user in table-------------
+2019-12-27 21:09:55,627 [main] INFO Cucumber Framework - *******Closing the browser*******
+2019-12-27 21:14:54,695 [main] INFO Cucumber Framework - *******Launching the browser*******
+2019-12-27 21:14:57,535 [main] INFO Cucumber Framework - *******Opening the URL*******
+2019-12-27 21:14:57,538 [main] INFO Cucumber Framework - ------entering USR and PWD-------
+2019-12-27 21:15:07,349 [main] INFO Cucumber Framework - ---login done-----
+2019-12-27 21:15:07,358 [main] INFO Cucumber Framework - -----------verifing title------
+2019-12-27 21:15:10,506 [main] INFO Cucumber Framework - -----------clicked on CUSTOMER----------
+2019-12-27 21:15:15,269 [main] INFO Cucumber Framework - -----------clicked on Customer----------
+2019-12-27 21:15:19,482 [main] INFO Cucumber Framework - -----------clicked on AddNew button----------
+2019-12-27 21:15:19,483 [main] INFO Cucumber Framework - -----------verifying add new customer page----------
+2019-12-27 21:15:19,495 [main] INFO Cucumber Framework - -----------going to enter customer details---------
+2019-12-27 21:15:21,782 [main] INFO Cucumber Framework - -----------customer details entered---------
+2019-12-27 21:15:24,493 [main] INFO Cucumber Framework - -----------clicked on save button---------
+2019-12-27 21:15:27,497 [main] INFO Cucumber Framework - -------------verifying the confirmation message----------
+2019-12-27 21:15:32,905 [main] INFO Cucumber Framework - *******Closing the browser*******
+2019-12-27 21:15:34,702 [main] INFO Cucumber Framework - *******Launching the browser*******
+2019-12-27 21:15:37,627 [main] INFO Cucumber Framework - *******Opening the URL*******
+2019-12-27 21:15:37,630 [main] INFO Cucumber Framework - ------entering USR and PWD-------
+2019-12-27 21:15:45,535 [main] INFO Cucumber Framework - ---login done-----
+2019-12-27 21:15:45,540 [main] INFO Cucumber Framework - -----------verifing title------
+2019-12-27 21:15:48,850 [main] INFO Cucumber Framework - -----------clicked on CUSTOMER----------
+2019-12-27 21:15:53,513 [main] INFO Cucumber Framework - -----------clicked on Customer----------
+2019-12-27 21:15:54,073 [main] INFO Cucumber Framework - --------------entered customer email-------------
+2019-12-27 21:15:57,187 [main] INFO Cucumber Framework - --------------clicked on search-------------
+2019-12-27 21:15:57,191 [main] INFO Cucumber Framework - --------------checking email in table-------------
+2019-12-27 21:16:02,652 [main] INFO Cucumber Framework - *******Closing the browser*******
+2019-12-27 21:16:04,611 [main] INFO Cucumber Framework - *******Launching the browser*******
+2019-12-27 21:16:07,458 [main] INFO Cucumber Framework - *******Opening the URL*******
+2019-12-27 21:16:07,459 [main] INFO Cucumber Framework - ------entering USR and PWD-------
+2019-12-27 21:16:13,399 [main] INFO Cucumber Framework - ---login done-----
+2019-12-27 21:16:13,401 [main] INFO Cucumber Framework - -----------verifing title------
+2019-12-27 21:16:16,579 [main] INFO Cucumber Framework - -----------clicked on CUSTOMER----------
+2019-12-27 21:16:21,434 [main] INFO Cucumber Framework - -----------clicked on Customer----------
+2019-12-27 21:16:21,769 [main] INFO Cucumber Framework - --------------entered first name-------------
+2019-12-27 21:16:22,076 [main] INFO Cucumber Framework - --------------entered last name-------------
+2019-12-27 21:16:25,217 [main] INFO Cucumber Framework - --------------clicked on search-------------
+2019-12-27 21:16:25,221 [main] INFO Cucumber Framework - --------------checking user in table-------------
+2019-12-27 21:16:31,031 [main] INFO Cucumber Framework - *******Closing the browser*******
+2019-12-28 00:12:43,228 [main] INFO Cucumber Framework - *******Launching the browser*******
+2019-12-28 00:12:46,568 [main] INFO Cucumber Framework - *******Opening the URL*******
+2019-12-28 00:12:46,573 [main] INFO Cucumber Framework - ------entering USR and PWD-------
+2019-12-28 00:12:52,941 [main] INFO Cucumber Framework - ---login done-----
+2019-12-28 00:12:52,949 [main] INFO Cucumber Framework - -----------verifying title------
+2019-12-28 00:12:56,106 [main] INFO Cucumber Framework - -----------clicked on CUSTOMER----------
+2019-12-28 00:13:00,886 [main] INFO Cucumber Framework - -----------clicked on Customer----------
+2019-12-28 00:13:04,706 [main] INFO Cucumber Framework - -----------clicked on AddNew button----------
+2019-12-28 00:13:04,711 [main] INFO Cucumber Framework - -----------verifying add new customer page----------
+2019-12-28 00:13:04,733 [main] INFO Cucumber Framework - -----------going to enter customer details---------
+2019-12-28 00:13:06,644 [main] INFO Cucumber Framework - -----------customer details entered---------
+2019-12-28 00:13:09,181 [main] INFO Cucumber Framework - -----------clicked on save button---------
+2019-12-28 00:13:12,184 [main] INFO Cucumber Framework - -------------verifying the confirmation message----------
+2019-12-28 00:13:17,515 [main] INFO Cucumber Framework - *******Closing the browser*******
+2019-12-28 00:13:19,375 [main] INFO Cucumber Framework - *******Launching the browser*******
+2019-12-28 00:13:22,330 [main] INFO Cucumber Framework - *******Opening the URL*******
+2019-12-28 00:13:22,343 [main] INFO Cucumber Framework - ------entering USR and PWD-------
+2019-12-28 00:13:29,929 [main] INFO Cucumber Framework - ---login done-----
+2019-12-28 00:13:29,931 [main] INFO Cucumber Framework - -----------verifying title------
+2019-12-28 00:13:33,052 [main] INFO Cucumber Framework - -----------clicked on CUSTOMER----------
+2019-12-28 00:13:37,738 [main] INFO Cucumber Framework - -----------clicked on Customer----------
+2019-12-28 00:13:38,368 [main] INFO Cucumber Framework - --------------entered customer email-------------
+2019-12-28 00:13:41,557 [main] INFO Cucumber Framework - --------------clicked on search-------------
+2019-12-28 00:13:41,561 [main] INFO Cucumber Framework - --------------checking email in table-------------
+2019-12-28 00:13:46,909 [main] INFO Cucumber Framework - *******Closing the browser*******
+2019-12-28 00:13:48,786 [main] INFO Cucumber Framework - *******Launching the browser*******
+2019-12-28 00:13:51,475 [main] INFO Cucumber Framework - *******Opening the URL*******
+2019-12-28 00:13:51,476 [main] INFO Cucumber Framework - ------entering USR and PWD-------
+2019-12-28 00:14:00,577 [main] INFO Cucumber Framework - ---login done-----
+2019-12-28 00:14:00,579 [main] INFO Cucumber Framework - -----------verifying title------
+2019-12-28 00:14:03,720 [main] INFO Cucumber Framework - -----------clicked on CUSTOMER----------
+2019-12-28 00:14:08,340 [main] INFO Cucumber Framework - -----------clicked on Customer----------
+2019-12-28 00:14:08,526 [main] INFO Cucumber Framework - --------------entered first name-------------
+2019-12-28 00:14:08,870 [main] INFO Cucumber Framework - --------------entered last name-------------
+2019-12-28 00:14:12,095 [main] INFO Cucumber Framework - --------------clicked on search-------------
+2019-12-28 00:14:12,097 [main] INFO Cucumber Framework - --------------checking user in table-------------
+2019-12-28 00:14:17,492 [main] INFO Cucumber Framework - *******Closing the browser*******
